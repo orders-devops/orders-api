@@ -5,7 +5,7 @@ A small Node.js/Express service that exposes customer orders for internal dashbo
 ## Endpoints
 
 - `GET /health` – service health check
-- `GET /orders` – list of orders sorted by date
+- `GET /orders` – list of orders, most recent first
 
 ## Development
 
